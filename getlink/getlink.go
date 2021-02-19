@@ -1,4 +1,4 @@
-package hmtl
+package getlink
 
 import (
 	"io/ioutil"
